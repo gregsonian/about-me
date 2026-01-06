@@ -15,9 +15,9 @@ Welcome! This site showcases my coding accomplishments and provides publicly ava
 - **Project 3**: An open-source contribution or personal project
 
 ### Skills
-- Programming Languages: Python, JavaScript, Java, etc.
-- Frameworks & Tools: React, Node.js, Git, Docker
-- Areas of Expertise: Web Development, API Design, Database Management
+- Programming Languages: Python, C#.NET
+- Frameworks & Tools: Git
+- Areas of Expertise: Web Development, API Design, Analytics
 
 ### Achievements
 - Contributed to open-source projects
